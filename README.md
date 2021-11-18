@@ -21,7 +21,9 @@ This was a project done for a coding bootcamp that covered the following skills:
 
 ## Screenshot
 
-![A screenshot of the Robot Gladiator app](./assets/images/screenshot.PNG]
+![A screenshot of the Robot Gladiator app](./assets/images/screenshot.PNG)
+
+![A screenshot of the store function of the app](./assets/images/store.PNG)
 
 ## Link
 
