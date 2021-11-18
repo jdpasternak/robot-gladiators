@@ -23,7 +23,7 @@ This was a project done for a coding bootcamp that covered the following skills:
 
 ![A screenshot of the Robot Gladiator app](./assets/images/screenshot.PNG)
 
-![A screenshot of the store function of the app](./assets/images/store.PNG)
+![A screenshot of the store function of the app](./assets/images/store.png)
 
 ## Link
 
